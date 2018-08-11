@@ -7,8 +7,8 @@
     <ProjectGuid>{CA6CD180-802A-4A47-AB42-0731A3F5B868}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Biolight.Core</RootNamespace>
-    <AssemblyName>Biolight.Core</AssemblyName>
+    <RootNamespace>Biolight.Brain</RootNamespace>
+    <AssemblyName>Biolight.Brain</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,8 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MessageEvent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SerialCommunicator.cs" />
+    <Compile Include="SerialMessage.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

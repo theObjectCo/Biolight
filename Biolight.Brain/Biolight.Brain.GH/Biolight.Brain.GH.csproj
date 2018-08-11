@@ -52,6 +52,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddPort.cs" />
+    <Compile Include="AvailablePorts.cs" />
+    <Compile Include="ListPorts.cs" />
+    <Compile Include="CaptureMessage.cs" />
+    <Compile Include="ReadMessage.cs" />
+    <Compile Include="ReleasePorts.cs" />
+    <Compile Include="SendMessage.cs" />
     <Compile Include="SimpleComponent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
