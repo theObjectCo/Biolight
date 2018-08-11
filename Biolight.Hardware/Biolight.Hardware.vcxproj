@@ -23,6 +23,7 @@
     <ProjectGuid>{2381300B-66D0-4D88-88E5-E0E426031047}</ProjectGuid>
     <RootNamespace>BiolightHardware</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>Biolight.Body</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
