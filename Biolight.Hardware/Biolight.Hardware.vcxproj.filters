@@ -13,1315 +13,1315 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Biolight.Hardware">
+    <Filter Include="Biolight.Body">
       <UniqueIdentifier>{3517f1b2-6d18-4d8d-b073-bcc56b11ae3e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs">
+    <Filter Include="Biolight.Body\.pioenvs">
       <UniqueIdentifier>{c2096380-3af7-467a-b86f-ee891e457492}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs\uno">
+    <Filter Include="Biolight.Body\.pioenvs\uno">
       <UniqueIdentifier>{e92f977f-f18f-4a20-963e-b3cf8f45f7d5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs\uno\FrameworkArduino">
+    <Filter Include="Biolight.Body\.pioenvs\uno\FrameworkArduino">
       <UniqueIdentifier>{70d10da1-f01a-48f1-842d-8cd000536ebd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs\uno\lib4c9">
+    <Filter Include="Biolight.Body\.pioenvs\uno\lib4c9">
       <UniqueIdentifier>{95b20f86-6836-419c-bdf3-44184d87c2de}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs\uno\lib4c9\SPI">
+    <Filter Include="Biolight.Body\.pioenvs\uno\lib4c9\SPI">
       <UniqueIdentifier>{def929a8-4151-4fad-9d95-14ce7e2c673c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs\uno\lib6fb">
+    <Filter Include="Biolight.Body\.pioenvs\uno\lib6fb">
       <UniqueIdentifier>{68d0a814-3e16-4a14-b0ba-ec463fda0522}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs\uno\lib6fb\SparkFun ADXL345 Arduino Library_ID2879">
+    <Filter Include="Biolight.Body\.pioenvs\uno\lib6fb\SparkFun ADXL345 Arduino Library_ID2879">
       <UniqueIdentifier>{603c22f1-e789-46c2-8254-324513190861}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs\uno\libada">
+    <Filter Include="Biolight.Body\.pioenvs\uno\libada">
       <UniqueIdentifier>{bde9ed30-0c08-44e6-b455-caf32159f06a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs\uno\libada\Wire">
+    <Filter Include="Biolight.Body\.pioenvs\uno\libada\Wire">
       <UniqueIdentifier>{a90c8191-4159-4502-9d1f-03027395f6aa}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs\uno\libada\Wire\utility">
+    <Filter Include="Biolight.Body\.pioenvs\uno\libada\Wire\utility">
       <UniqueIdentifier>{5a808c57-9516-4e1e-9786-92c60f2c4731}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.pioenvs\uno\src">
+    <Filter Include="Biolight.Body\.pioenvs\uno\src">
       <UniqueIdentifier>{190b60d0-82af-483a-bf15-e10da13d10a9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps">
+    <Filter Include="Biolight.Body\.piolibdeps">
       <UniqueIdentifier>{50ba3273-3929-48a7-b90d-85410a9d220a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756">
+    <Filter Include="Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756">
       <UniqueIdentifier>{92e5c855-7c54-48a0-875e-7cc21cbe00b8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756\.github">
+    <Filter Include="Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756\.github">
       <UniqueIdentifier>{192111b6-39b6-45ac-a624-04ecd7998252}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756\examples">
+    <Filter Include="Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756\examples">
       <UniqueIdentifier>{d2d86a6a-6833-4d23-840e-3061ea414e43}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756\examples\sensortest">
+    <Filter Include="Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756\examples\sensortest">
       <UniqueIdentifier>{62659008-5219-4a98-b0ca-c555d485e1a1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Adafruit ADXL345_ID15">
+    <Filter Include="Biolight.Body\.piolibdeps\Adafruit ADXL345_ID15">
       <UniqueIdentifier>{ed1334d4-3c55-4457-bec1-57c3650a6a4a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Adafruit ADXL345_ID15\examples">
+    <Filter Include="Biolight.Body\.piolibdeps\Adafruit ADXL345_ID15\examples">
       <UniqueIdentifier>{52e8ca91-a002-4324-ab9c-7b25a280d299}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Adafruit ADXL345_ID15\examples\sensortest">
+    <Filter Include="Biolight.Body\.piolibdeps\Adafruit ADXL345_ID15\examples\sensortest">
       <UniqueIdentifier>{6650c970-7638-4ac1-955d-d6074c1fcb34}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Adafruit Unified Sensor_ID31">
+    <Filter Include="Biolight.Body\.piolibdeps\Adafruit Unified Sensor_ID31">
       <UniqueIdentifier>{23e11036-3277-43a2-91dd-91e5530f4f10}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\ADXL345_ID559">
+    <Filter Include="Biolight.Body\.piolibdeps\ADXL345_ID559">
       <UniqueIdentifier>{52cda052-1fcd-4a4d-abc3-f2ccb881aa69}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\ADXL345_ID559\examples">
+    <Filter Include="Biolight.Body\.piolibdeps\ADXL345_ID559\examples">
       <UniqueIdentifier>{358cf1d6-1902-4d5d-b15b-03dfd062f5fd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\ADXL345_ID559\examples\ReadXYZ">
+    <Filter Include="Biolight.Body\.piolibdeps\ADXL345_ID559\examples\ReadXYZ">
       <UniqueIdentifier>{a22a43bf-f6f4-4564-9d79-4078a00d1ff5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\ADXL345_ID559\lib">
+    <Filter Include="Biolight.Body\.piolibdeps\ADXL345_ID559\lib">
       <UniqueIdentifier>{55cdba25-886a-4b51-8988-bb2d2a65e3e1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\ADXL345_ID559\src">
+    <Filter Include="Biolight.Body\.piolibdeps\ADXL345_ID559\src">
       <UniqueIdentifier>{864ee8d6-3979-48cf-a088-174acb465da2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930">
       <UniqueIdentifier>{0c9f9b76-93ae-42b3-a779-410766285fbe}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples">
       <UniqueIdentifier>{8bbbcf54-ddac-4055-998d-501b7d42e1f9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks">
       <UniqueIdentifier>{89d50e7c-a653-4647-93d9-41e02ae98853}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE">
       <UniqueIdentifier>{ea109a4e-44be-44a2-a1ff-a99fa19140df}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE\_Target_1">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE\_Target_1">
       <UniqueIdentifier>{a17f2c3a-edd0-40ea-9f96-ad0d5bf24b60}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE\Device">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE\Device">
       <UniqueIdentifier>{5fb38426-457d-49fc-9055-ed3fc48b9c45}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE\Device\STM32F401RETx">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE\Device\STM32F401RETx">
       <UniqueIdentifier>{9d60ae34-508c-4c82-a3e2-139de161538c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C">
       <UniqueIdentifier>{bf8f68c6-8f00-4d07-8ff3-dacf28f41e60}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C\RTE">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C\RTE">
       <UniqueIdentifier>{820ca9db-3221-4f8b-864d-fa8738a783db}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C\RTE\Device">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C\RTE\Device">
       <UniqueIdentifier>{66cb6361-694b-45db-9592-66230b79db73}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C\RTE\Device\STM32F401RETx">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C\RTE\Device\STM32F401RETx">
       <UniqueIdentifier>{26311003-02b4-40fa-bdc4-9bf4804c76ec}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++">
       <UniqueIdentifier>{de7ee7b0-3312-4579-9888-170eab51b696}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++\RTE">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++\RTE">
       <UniqueIdentifier>{e98f5f1e-8407-4161-b680-73d1ffd8db95}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++\RTE\Device">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++\RTE\Device">
       <UniqueIdentifier>{9d0d6bc9-c519-4a06-8255-e4499cbf9f4d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++\RTE\Device\STM32F401RETx">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++\RTE\Device\STM32F401RETx">
       <UniqueIdentifier>{58786cba-b998-4015-a1a5-35a9440c017b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Blink">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Blink">
       <UniqueIdentifier>{fbc95a56-f9eb-4300-91c7-9ed206440e28}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Blink\Blink1">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Blink\Blink1">
       <UniqueIdentifier>{d2eefbee-c751-45d7-b7ce-73ef2624eb9b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Blink\Blink1\__vm">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Blink\Blink1\__vm">
       <UniqueIdentifier>{10bafdfd-f2d9-431f-8c51-5455d62882c6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList">
       <UniqueIdentifier>{38c1561b-d1f7-43c2-b2df-196dda336a6d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\__vm">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\__vm">
       <UniqueIdentifier>{2a0990fd-93ad-4c6b-a073-cb4b82c0e039}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro">
       <UniqueIdentifier>{b6224406-0686-4416-813c-543dccc57970}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\.vs">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\.vs">
       <UniqueIdentifier>{233afa02-b4a6-41f4-a83b-0e8f617c5083}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\.vs\BlinkList">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\.vs\BlinkList">
       <UniqueIdentifier>{d6882ded-6207-4757-b820-d96ca66f9799}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\.vs\BlinkList\v15">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\.vs\BlinkList\v15">
       <UniqueIdentifier>{34c70404-a361-4c74-a904-cde964d925c1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\__vm">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\__vm">
       <UniqueIdentifier>{c374884b-a480-4c5c-9480-aaba6083855e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Debounce">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Debounce">
       <UniqueIdentifier>{df262acb-40ed-46c1-bc68-fb69df8a0dcc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Debounce\.vs">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Debounce\.vs">
       <UniqueIdentifier>{4c172fb0-742c-479d-bc12-5c0703d6fc8a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Debounce\.vs\Debounce">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Debounce\.vs\Debounce">
       <UniqueIdentifier>{6a2d002a-1a9c-45e6-8114-85d7182b20f3}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Debounce\.vs\Debounce\v15">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Debounce\.vs\Debounce\v15">
       <UniqueIdentifier>{3f560a75-32d2-4179-ad18-12b7a8d8f14f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation">
       <UniqueIdentifier>{866d5533-100a-423d-b561-f9c15f064235}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017">
       <UniqueIdentifier>{abf01f51-dc04-40b2-81ec-82b31a3bd64e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs">
       <UniqueIdentifier>{0c953d32-7c8d-46a8-a40f-8d1c30dd367f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation">
       <UniqueIdentifier>{1b4916cb-6d63-4744-86a7-ee5fda35cb31}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation\v15">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation\v15">
       <UniqueIdentifier>{37ca9a38-b1aa-4f4b-9e47-c852ac955b61}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation\v15\ipch">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation\v15\ipch">
       <UniqueIdentifier>{09af564a-a206-4928-9855-9fa9db4ff26f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter">
       <UniqueIdentifier>{25ccb70f-d5ca-41b0-adb7-f35b2565e70f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017">
       <UniqueIdentifier>{821ac682-5e4a-4abf-be5c-942563ef9003}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs">
       <UniqueIdentifier>{ec910e46-dd50-4347-a784-320e8d44f0ca}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter">
       <UniqueIdentifier>{a0f11c68-57ac-49f5-857f-3433f3e37347}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15">
       <UniqueIdentifier>{95adf807-72c2-4496-98b1-6ecff93f727a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15\ipch">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15\ipch">
       <UniqueIdentifier>{d3c55301-9e10-48b9-9f9a-8618fdad1bf5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15\ipch\AutoPCH">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15\ipch\AutoPCH">
       <UniqueIdentifier>{5df23752-1d17-4c8c-88b3-a249f2b3c6c1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src">
       <UniqueIdentifier>{eaf51911-50e6-40a5-8f12-3b0422e1f802}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\.vscode">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\.vscode">
       <UniqueIdentifier>{77e38dc8-0bab-4e60-80b1-e64f6712dd0c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\atomic">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\atomic">
       <UniqueIdentifier>{61969d4e-5b6d-4553-b374-12c891fd5515}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\c">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\c">
       <UniqueIdentifier>{631c754c-836b-42dd-a0ec-338496e3947f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\private">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\private">
       <UniqueIdentifier>{e0141bec-b5b9-4785-81c4-d59162d5a62f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles">
       <UniqueIdentifier>{798dd0ae-8581-45df-8703-841ab1a2162e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\support">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\support">
       <UniqueIdentifier>{9ad9293a-6bec-4453-985e-8ca75c0ee395}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\temp">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\temp">
       <UniqueIdentifier>{1258e61c-bb25-4331-b4ac-d51981ee1963}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\uml">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\uml">
       <UniqueIdentifier>{a6cf2dbf-1669-4e18-9851-23dae801375e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\uml\source">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\uml\source">
       <UniqueIdentifier>{90f60f8d-b015-4a22-ac05-c02105b3b27f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\unittest-cpp">
+    <Filter Include="Biolight.Body\.piolibdeps\Embedded Template Library_ID930\unittest-cpp">
       <UniqueIdentifier>{75b90242-4ea5-46de-b1a3-e1c997b319d2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879">
+    <Filter Include="Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879">
       <UniqueIdentifier>{d4ab6645-8ee0-4973-95a9-e1efc7a1f91b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples">
+    <Filter Include="Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples">
       <UniqueIdentifier>{5146c2ca-93ce-4a1b-8ce1-b8fd1db3dd43}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_ADXL345_Calibration">
+    <Filter Include="Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_ADXL345_Calibration">
       <UniqueIdentifier>{881ddaed-bf4b-42f2-be75-cab39af400f6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_ADXL345_Example">
+    <Filter Include="Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_ADXL345_Example">
       <UniqueIdentifier>{c8d9a209-1629-4bb5-b0a1-e1842d05dc86}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_BabyBlynkMonitorThing">
+    <Filter Include="Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_BabyBlynkMonitorThing">
       <UniqueIdentifier>{2ebf8fb0-b273-40f4-9522-78696b6b22df}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\src">
+    <Filter Include="Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\src">
       <UniqueIdentifier>{7154d08a-fbe0-461f-8557-6885b4fdd3b5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\.vscode">
+    <Filter Include="Biolight.Body\.vscode">
       <UniqueIdentifier>{2849ab8f-83dd-470f-9359-80e07dab6dbe}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\lib">
+    <Filter Include="Biolight.Body\lib">
       <UniqueIdentifier>{aa85ae63-76d0-46ff-b4b8-5d6ce002ef73}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Biolight.Hardware\src">
+    <Filter Include="Biolight.Body\src">
       <UniqueIdentifier>{336cb4bb-516a-46b3-ae57-ed16f6536063}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.clang-format">
-      <Filter>Biolight.Hardware</Filter>
+      <Filter>Biolight.Body</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.gitignore">
-      <Filter>Biolight.Hardware</Filter>
+      <Filter>Biolight.Body</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\.sconsign.dblite">
-      <Filter>Biolight.Hardware\.pioenvs</Filter>
+      <Filter>Biolight.Body\.pioenvs</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\do-not-modify-files-here.url">
-      <Filter>Biolight.Hardware\.pioenvs</Filter>
+      <Filter>Biolight.Body\.pioenvs</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\structure.hash">
-      <Filter>Biolight.Hardware\.pioenvs</Filter>
+      <Filter>Biolight.Body\.pioenvs</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\firmware.elf">
-      <Filter>Biolight.Hardware\.pioenvs\uno</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\firmware.hex">
-      <Filter>Biolight.Hardware\.pioenvs\uno</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\.github\issue_template.md">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756\.github</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756\.github</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\.github\pull_request_template.md">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756\.github</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756\.github</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\.library.json">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\examples\sensortest\sensortest.ino">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756\examples\sensortest</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756\examples\sensortest</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\library.json">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\library.properties">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\readme.md">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\.library.json">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345_ID15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345_ID15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\examples\sensortest\sensortest.pde">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345_ID15\examples\sensortest</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345_ID15\examples\sensortest</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\library.properties">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345_ID15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345_ID15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\readme.md">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345_ID15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345_ID15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit unified sensor_id31\.library.json">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit Unified Sensor_ID31</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit Unified Sensor_ID31</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit unified sensor_id31\library.properties">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit Unified Sensor_ID31</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit Unified Sensor_ID31</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit unified sensor_id31\readme.md">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit Unified Sensor_ID31</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit Unified Sensor_ID31</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\.gitignore">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\.library.json">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\.travis.yml">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\examples\readxyz\readxyz.ino">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559\examples\ReadXYZ</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559\examples\ReadXYZ</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\library.json">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\library.properties">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\platformio.ini">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\readme.md">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\.gitattributes">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\.gitignore">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\.gitmodules">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\.library.json">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\doxyfile">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl.pspimage">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl.xar">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks\rte\device\stm32f401retx\startup_stm32f401xe.s">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE\Device\STM32F401RETx</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE\Device\STM32F401RETx</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\armtimercallbacks.uvoptx">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\armtimercallbacks.uvprojx">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\rte\device\stm32f401retx\startup_stm32f401xe.s">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C\RTE\Device\STM32F401RETx</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C\RTE\Device\STM32F401RETx</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\armtimercallbacks.uvoptx">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\armtimercallbacks.uvprojx">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\rte\device\stm32f401retx\startup_stm32f401xe.s">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++\RTE\Device\STM32F401RETx</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++\RTE\Device\STM32F401RETx</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blink\blink1\__vm\.gitignore">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Blink\Blink1\__vm</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Blink\Blink1\__vm</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\__vm\.gitignore">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\__vm</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\__vm</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\blinklist.ino">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\.vs\blinklist\v15\.suo">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\.vs\BlinkList\v15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\.vs\BlinkList\v15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\.vs\blinklist\v15\browse.vc.db">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\.vs\BlinkList\v15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\.vs\BlinkList\v15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\__vm\.gitignore">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\__vm</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro\__vm</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\blinklist.sln">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\blinklist.vcxproj">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\blinklist.vcxproj.filters">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\BlinkList\VisualMicro</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\.vs\debounce\v15\.suo">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Debounce\.vs\Debounce\v15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Debounce\.vs\Debounce\v15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\.vs\debounce\v15\browse.vc.db">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Debounce\.vs\Debounce\v15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Debounce\.vs\Debounce\v15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\debounce.ino">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Debounce</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Debounce</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\debounce.sln">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Debounce</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Debounce</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\debounce.vcxproj">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Debounce</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Debounce</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\debounce.vcxproj.filters">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\Debounce</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\Debounce</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\.vs\functioninterruptsimulation\v15\.suo">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation\v15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation\v15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\.vs\functioninterruptsimulation\v15\browse.vc.db">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation\v15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation\v15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\.vs\functioninterruptsimulation\v15\ipch\8b02e3a687613758.ipch">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation\v15\ipch</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017\.vs\FunctionInterruptSimulation\v15\ipch</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\functioninterruptsimulation.sln">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\functioninterruptsimulation.vcxproj">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\functioninterruptsimulation.vcxproj.filters">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation\vs2017</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\.vs\queuedmessagerouter\v15\.suo">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\.vs\queuedmessagerouter\v15\browse.vc.db">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\.vs\queuedmessagerouter\v15\browse.vc.opendb">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs\QueuedMessageRouter\v15</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\.vs\queuedmessagerouter.sqlite">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017\.vs</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\queuedmessagerouter.sln">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\queuedmessagerouter.vcxproj">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\queuedmessagerouter.vcxproj.filters">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\library.properties">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\license">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\readme.md">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\.vscode\settings.json">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\.vscode</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\.vscode</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate.bat">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_fsm.bat">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_largest.bat">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_message_router.bat">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_smallest.bat">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_type_lookup.bat">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_type_traits.bat">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_variant_pool.bat">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\avr-stl-1.1.1.zip">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\support</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\support</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\class diagrams.docx">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\support</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\support</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\flat map class diagram.odg">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\support</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\support</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\flat_map_class_diagram.doc">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\support</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\support</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\list class diagram.odg">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\support</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\support</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\list_class_diagram.doc">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\support</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\support</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\uml\source\fsm example.zargo">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\uml\source</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\uml\source</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\uml\source\message framework.zargo">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\uml\source</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\uml\source</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\.library.json">
-      <Filter>Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879</Filter>
+      <Filter>Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\examples\sparkfun_adxl345_calibration\sparkfun_adxl345_calibration.ino">
-      <Filter>Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_ADXL345_Calibration</Filter>
+      <Filter>Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_ADXL345_Calibration</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\examples\sparkfun_adxl345_example\sparkfun_adxl345_example.ino">
-      <Filter>Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_ADXL345_Example</Filter>
+      <Filter>Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_ADXL345_Example</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\examples\sparkfun_babyblynkmonitorthing\sparkfun_babyblynkmonitorthing.ino">
-      <Filter>Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_BabyBlynkMonitorThing</Filter>
+      <Filter>Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\examples\SparkFun_BabyBlynkMonitorThing</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\library.properties">
-      <Filter>Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879</Filter>
+      <Filter>Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\readme.md">
-      <Filter>Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879</Filter>
+      <Filter>Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.travis.yml">
-      <Filter>Biolight.Hardware</Filter>
+      <Filter>Biolight.Body</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.vscode\.browse.c_cpp.db">
-      <Filter>Biolight.Hardware\.vscode</Filter>
+      <Filter>Biolight.Body\.vscode</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.vscode\c_cpp_properties.json">
-      <Filter>Biolight.Hardware\.vscode</Filter>
+      <Filter>Biolight.Body\.vscode</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.vscode\extensions.json">
-      <Filter>Biolight.Hardware\.vscode</Filter>
+      <Filter>Biolight.Body\.vscode</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.vscode\launch.json">
-      <Filter>Biolight.Hardware\.vscode</Filter>
+      <Filter>Biolight.Body\.vscode</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.vscode\settings.json">
-      <Filter>Biolight.Hardware\.vscode</Filter>
+      <Filter>Biolight.Body\.vscode</Filter>
     </None>
     <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\platformio.ini">
-      <Filter>Biolight.Hardware</Filter>
+      <Filter>Biolight.Body</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\abi.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\cdc.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hardwareserial.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hardwareserial0.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hardwareserial1.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hardwareserial2.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hardwareserial3.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hooks.c.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\ipaddress.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\main.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\new.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\pluggableusb.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\print.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\stream.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\tone.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\usbcore.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\winterrupts.c.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring.c.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring_analog.c.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring_digital.c.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring_pulse.c.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring_pulse.s.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring_shift.c.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wmath.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wstring.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\FrameworkArduino</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\FrameworkArduino</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\lib4c9\spi\spi.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\lib4c9\SPI</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\lib4c9\SPI</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\lib6fb\sparkfun adxl345 arduino library_id2879\sparkfun_adxl345.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\lib6fb\SparkFun ADXL345 Arduino Library_ID2879</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\lib6fb\SparkFun ADXL345 Arduino Library_ID2879</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\libada\wire\utility\twi.c.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\libada\Wire\utility</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\libada\Wire\utility</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\libada\wire\wire.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\libada\Wire</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\libada\Wire</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\src\imu.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\src</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\src</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\src\led.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\src</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\src</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\src\main.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\src</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\src</Filter>
     </Object>
     <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\src\vector3.cpp.o">
-      <Filter>Biolight.Hardware\.pioenvs\uno\src</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\src</Filter>
     </Object>
   </ItemGroup>
   <ItemGroup>
     <Library Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\lib4c9\libspi.a">
-      <Filter>Biolight.Hardware\.pioenvs\uno\lib4c9</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\lib4c9</Filter>
     </Library>
     <Library Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\lib6fb\libsparkfun adxl345 arduino library_id2879.a">
-      <Filter>Biolight.Hardware\.pioenvs\uno\lib6fb</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\lib6fb</Filter>
     </Library>
     <Library Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\libada\libwire.a">
-      <Filter>Biolight.Hardware\.pioenvs\uno\libada</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno\libada</Filter>
     </Library>
     <Library Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\libframeworkarduino.a">
-      <Filter>Biolight.Hardware\.pioenvs\uno</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno</Filter>
     </Library>
     <Library Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\libframeworkarduinovariant.a">
-      <Filter>Biolight.Hardware\.pioenvs\uno</Filter>
+      <Filter>Biolight.Body\.pioenvs\uno</Filter>
     </Library>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\adafruit_adxl345_u.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\adafruit_adxl345_u.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345_ID15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345_ID15</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\src\adxl345.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\main.c">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\rte\device\stm32f401retx\system_stm32f4xx.c">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C\RTE\Device\STM32F401RETx</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C\RTE\Device\STM32F401RETx</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\main.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\rte\device\stm32f401retx\system_stm32f4xx.c">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++\RTE\Device\STM32F401RETx</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++\RTE\Device\STM32F401RETx</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\functioninterruptsimulation.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\queuedmessagerouter.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\binary.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\c\ecl_timer.c">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\c</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\c</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16_ccitt.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16_kermit.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc32.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc64_ecma.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc8_ccitt.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\error_handler.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\pearson.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\private\pvoidvector.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\private</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\private</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\random.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\src\sparkfun_adxl345.cpp">
-      <Filter>Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\imu.cpp">
-      <Filter>Biolight.Hardware\src</Filter>
+      <Filter>Biolight.Body\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\led.cpp">
-      <Filter>Biolight.Hardware\src</Filter>
+      <Filter>Biolight.Body\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\main.cpp">
-      <Filter>Biolight.Hardware\src</Filter>
+      <Filter>Biolight.Body\src</Filter>
     </ClCompile>
     <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\vector3.cpp">
-      <Filter>Biolight.Hardware\src</Filter>
+      <Filter>Biolight.Body\src</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\adafruit_adxl345_u.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\adafruit_adxl345_u.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345_ID15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345_ID15</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit unified sensor_id31\adafruit_sensor.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit Unified Sensor_ID31</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit Unified Sensor_ID31</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\src\adxl345.h">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks\rte\_target_1\rte_components.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE\_Target_1</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks\RTE\_Target_1</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\ecl_user.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\etl_profile.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\ArmTimerCallbacks - C++</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\etl_profile.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\FunctionInterruptSimulation</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\etl_profile.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\examples\QueuedMessageRouter\vs2017</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\algorithm.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\alignment.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\array.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\array_view.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\array_wrapper.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\atomic\atomic_arm.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\atomic</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\atomic</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\atomic\atomic_gcc.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\atomic</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\atomic</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\atomic\atomic_windows.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\atomic</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\atomic</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\atomic.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\basic_string.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\binary.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\bitset.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\bloom_filter.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\c\ecl_timer.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\c</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\c</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\callback.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\callback_timer.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\char_traits.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\checksum.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\compare.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\constant.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\container.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16_ccitt.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16_kermit.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc32.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc64_ecma.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc8_ccitt.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\cstring.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\cyclic_value.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\debounce.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\debug_count.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\deque.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\doxygen.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\endianness.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\enum_type.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\error_handler.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\exception.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\factorial.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\factory.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\fibonacci.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\fixed_iterator.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\flat_map.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\flat_multimap.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\flat_multiset.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\flat_set.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\fnv_1.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\forward_list.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\frame_check_sequence.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\fsm.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\fsm_generator.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\function.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\functional.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\hash.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\icache.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\ihash.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\instance_count.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\integral_limits.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\intrusive_forward_list.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\intrusive_links.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\intrusive_list.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\intrusive_queue.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\intrusive_stack.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\io_port.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\iterator.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\jenkins.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\largest.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\largest_generator.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\list.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\log.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\map.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\memory.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message_bus.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message_router.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message_router_generator.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message_timer.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message_types.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\multimap.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\multiset.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\murmur3.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\nullptr.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\numeric.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\observer.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\optional.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\packet.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\parameter_type.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\pearson.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\platform.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\pool.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\power.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\priority_queue.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\private\ivectorpointer.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\private</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\private</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\private\pvoidvector.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\private</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\private</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\private\vector_base.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\private</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\private</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\arduino_arm.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\armv5.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\armv6.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\cpp03.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\cpp11.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\cpp14.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\gcc_generic.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\gcc_linux_x86.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\gcc_windows_x86.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\msvc_x86.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\ticc.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src\profiles</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\queue.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\radix.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\random.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\ratio.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\reference_flat_map.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\reference_flat_multimap.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\reference_flat_multiset.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\reference_flat_set.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\scheduler.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\set.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\smallest.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\smallest_generator.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\sqrt.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\stack.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\static_assert.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\string_view.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\task.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\temp.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\timer.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\type_def.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\type_lookup.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\type_lookup_generator.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\type_traits.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\type_traits_generator.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\u16string.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\u32string.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\unordered_map.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\unordered_multimap.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\unordered_multiset.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\unordered_set.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\user_type.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\utility.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\variant.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\variant_pool.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\variant_pool_generator.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\vector.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\version.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\visitor.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\wstring.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\temp\message_router.h">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\temp</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\temp</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\src\sparkfun_adxl345.h">
-      <Filter>Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\imu.h">
-      <Filter>Biolight.Hardware\src</Filter>
+      <Filter>Biolight.Body\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\led.h">
-      <Filter>Biolight.Hardware\src</Filter>
+      <Filter>Biolight.Body\src</Filter>
     </ClInclude>
     <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\vector3.h">
-      <Filter>Biolight.Hardware\src</Filter>
+      <Filter>Biolight.Body\src</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\license.txt">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345 fork_ID1756</Filter>
     </Text>
     <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\license.txt">
-      <Filter>Biolight.Hardware\.piolibdeps\Adafruit ADXL345_ID15</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Adafruit ADXL345_ID15</Filter>
     </Text>
     <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\keywords.txt">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559</Filter>
     </Text>
     <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\lib\readme.txt">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559\lib</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559\lib</Filter>
     </Text>
     <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\license.txt">
-      <Filter>Biolight.Hardware\.piolibdeps\ADXL345_ID559</Filter>
+      <Filter>Biolight.Body\.piolibdeps\ADXL345_ID559</Filter>
     </Text>
     <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\file_error_numbers.txt">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\src</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\src</Filter>
     </Text>
     <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\release notes.txt">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\support</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\support</Filter>
     </Text>
     <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\keywords.txt">
-      <Filter>Biolight.Hardware\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879</Filter>
+      <Filter>Biolight.Body\.piolibdeps\SparkFun ADXL345 Arduino Library_ID2879</Filter>
     </Text>
     <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\lib\readme.txt">
-      <Filter>Biolight.Hardware\lib</Filter>
+      <Filter>Biolight.Body\lib</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl.ico">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </Image>
     <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl.png">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </Image>
     <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl16.png">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </Image>
     <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl32.png">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </Image>
     <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl48.png">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </Image>
     <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\favicon.ico">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930</Filter>
     </Image>
     <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\uml\framework.png">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\uml</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\uml</Filter>
     </Image>
     <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\uml\fsm example.png">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\uml</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\uml</Filter>
     </Image>
     <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\uml\messageframework.png">
-      <Filter>Biolight.Hardware\.piolibdeps\Embedded Template Library_ID930\uml</Filter>
+      <Filter>Biolight.Body\.piolibdeps\Embedded Template Library_ID930\uml</Filter>
     </Image>
   </ItemGroup>
 </Project>
