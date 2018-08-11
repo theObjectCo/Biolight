@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biolight.Brain", "Biolight.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biolight.Brain.GH", "Biolight.Brain\Biolight.Brain.GH\Biolight.Brain.GH.csproj", "{E93CF339-D897-41A3-98E5-58706DEB7AB8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Biolight.Hardware", "Biolight.Hardware\Biolight.Hardware.vcxproj", "{2381300B-66D0-4D88-88E5-E0E426031047}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Biolight.Body", "Biolight.Body\Biolight.Body.vcxproj", "{2381300B-66D0-4D88-88E5-E0E426031047}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
