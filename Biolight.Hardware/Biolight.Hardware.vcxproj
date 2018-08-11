@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{2381300B-66D0-4D88-88E5-E0E426031047}</ProjectGuid>
+    <RootNamespace>BiolightHardware</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.clang-format" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.gitignore" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\.sconsign.dblite" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\do-not-modify-files-here.url" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\structure.hash" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\firmware.elf" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\firmware.hex" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\.github\issue_template.md" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\.github\pull_request_template.md" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\.library.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\examples\sensortest\sensortest.ino" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\library.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\library.properties" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\readme.md" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\.library.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\examples\sensortest\sensortest.pde" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\library.properties" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\readme.md" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit unified sensor_id31\.library.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit unified sensor_id31\library.properties" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit unified sensor_id31\readme.md" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\.gitignore" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\.library.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\.travis.yml" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\examples\readxyz\readxyz.ino" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\library.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\library.properties" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\platformio.ini" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\readme.md" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\.gitattributes" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\.gitignore" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\.gitmodules" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\.library.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\doxyfile" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl.pspimage" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl.xar" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\armtimercallbacks.uvoptx" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\armtimercallbacks.uvprojx" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\rte\device\stm32f401retx\startup_stm32f401xe.s" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\armtimercallbacks.uvoptx" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\armtimercallbacks.uvprojx" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\rte\device\stm32f401retx\startup_stm32f401xe.s" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks\rte\device\stm32f401retx\startup_stm32f401xe.s" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\blinklist.ino" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\.vs\blinklist\v15\.suo" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\.vs\blinklist\v15\browse.vc.db" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\blinklist.sln" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\blinklist.vcxproj" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\blinklist.vcxproj.filters" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\visualmicro\__vm\.gitignore" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blinklist\__vm\.gitignore" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\blink\blink1\__vm\.gitignore" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\.vs\debounce\v15\.suo" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\.vs\debounce\v15\browse.vc.db" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\debounce.ino" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\debounce.sln" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\debounce.vcxproj" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\debounce\debounce.vcxproj.filters" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\.vs\functioninterruptsimulation\v15\.suo" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\.vs\functioninterruptsimulation\v15\browse.vc.db" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\.vs\functioninterruptsimulation\v15\ipch\8b02e3a687613758.ipch" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\functioninterruptsimulation.sln" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\functioninterruptsimulation.vcxproj" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\vs2017\functioninterruptsimulation.vcxproj.filters" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\.vs\queuedmessagerouter.sqlite" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\.vs\queuedmessagerouter\v15\.suo" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\.vs\queuedmessagerouter\v15\browse.vc.db" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\.vs\queuedmessagerouter\v15\browse.vc.opendb" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\queuedmessagerouter.sln" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\queuedmessagerouter.vcxproj" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\queuedmessagerouter.vcxproj.filters" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\library.properties" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\license" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\readme.md" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\.vscode\settings.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate.bat" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_fsm.bat" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_largest.bat" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_message_router.bat" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_smallest.bat" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_type_lookup.bat" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_type_traits.bat" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\generate_variant_pool.bat" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\avr-stl-1.1.1.zip" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\class diagrams.docx" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\flat map class diagram.odg" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\flat_map_class_diagram.doc" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\list class diagram.odg" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\list_class_diagram.doc" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\uml\source\fsm example.zargo" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\uml\source\message framework.zargo" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\.library.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\examples\sparkfun_adxl345_calibration\sparkfun_adxl345_calibration.ino" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\examples\sparkfun_adxl345_example\sparkfun_adxl345_example.ino" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\examples\sparkfun_babyblynkmonitorthing\sparkfun_babyblynkmonitorthing.ino" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\library.properties" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\readme.md" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.travis.yml" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.vscode\.browse.c_cpp.db" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.vscode\c_cpp_properties.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.vscode\extensions.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.vscode\launch.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\.vscode\settings.json" />
+    <None Include="..\biolight.brain\biolight.brain.gh\biolight.body\platformio.ini" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\abi.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\cdc.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hardwareserial.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hardwareserial0.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hardwareserial1.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hardwareserial2.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hardwareserial3.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\hooks.c.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\ipaddress.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\main.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\new.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\pluggableusb.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\print.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\stream.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\tone.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\usbcore.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\winterrupts.c.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring.c.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring_analog.c.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring_digital.c.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring_pulse.c.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring_pulse.s.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wiring_shift.c.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wmath.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\frameworkarduino\wstring.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\lib4c9\spi\spi.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\lib6fb\sparkfun adxl345 arduino library_id2879\sparkfun_adxl345.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\libada\wire\utility\twi.c.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\libada\wire\wire.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\src\imu.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\src\led.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\src\main.cpp.o" />
+    <Object Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\src\vector3.cpp.o" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\lib4c9\libspi.a" />
+    <Library Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\lib6fb\libsparkfun adxl345 arduino library_id2879.a" />
+    <Library Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\libada\libwire.a" />
+    <Library Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\libframeworkarduino.a" />
+    <Library Include="..\biolight.brain\biolight.brain.gh\biolight.body\.pioenvs\uno\libframeworkarduinovariant.a" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\adafruit_adxl345_u.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\adafruit_adxl345_u.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\src\adxl345.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\main.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\rte\device\stm32f401retx\system_stm32f4xx.c" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\main.c" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\rte\device\stm32f401retx\system_stm32f4xx.c" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\functioninterruptsimulation.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\queuedmessagerouter.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\binary.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16_ccitt.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16_kermit.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc32.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc64_ecma.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc8_ccitt.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\c\ecl_timer.c" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\error_handler.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\pearson.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\private\pvoidvector.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\random.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\src\sparkfun_adxl345.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\imu.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\led.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\main.cpp" />
+    <ClCompile Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\vector3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\adafruit_adxl345_u.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\adafruit_adxl345_u.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit unified sensor_id31\adafruit_sensor.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\src\adxl345.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c++\etl_profile.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks - c\ecl_user.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\armtimercallbacks\rte\_target_1\rte_components.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\functioninterruptsimulation\etl_profile.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\examples\queuedmessagerouter\vs2017\etl_profile.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\algorithm.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\alignment.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\array.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\array_view.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\array_wrapper.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\atomic.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\atomic\atomic_arm.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\atomic\atomic_gcc.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\atomic\atomic_windows.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\basic_string.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\binary.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\bitset.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\bloom_filter.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\callback.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\callback_timer.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\char_traits.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\checksum.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\compare.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\constant.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\container.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16_ccitt.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc16_kermit.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc32.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc64_ecma.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\crc8_ccitt.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\cstring.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\cyclic_value.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\c\ecl_timer.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\debounce.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\debug_count.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\deque.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\doxygen.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\endianness.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\enum_type.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\error_handler.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\exception.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\factorial.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\factory.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\fibonacci.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\fixed_iterator.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\flat_map.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\flat_multimap.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\flat_multiset.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\flat_set.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\fnv_1.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\forward_list.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\frame_check_sequence.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\fsm.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\fsm_generator.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\function.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\functional.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\hash.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\icache.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\ihash.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\instance_count.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\integral_limits.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\intrusive_forward_list.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\intrusive_links.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\intrusive_list.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\intrusive_queue.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\intrusive_stack.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\io_port.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\iterator.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\jenkins.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\largest.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\largest_generator.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\list.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\log.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\map.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\memory.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message_bus.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message_router.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message_router_generator.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message_timer.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\message_types.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\multimap.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\multiset.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\murmur3.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\nullptr.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\numeric.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\observer.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\optional.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\packet.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\parameter_type.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\pearson.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\platform.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\pool.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\power.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\priority_queue.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\private\ivectorpointer.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\private\pvoidvector.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\private\vector_base.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\arduino_arm.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\armv5.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\armv6.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\cpp03.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\cpp11.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\cpp14.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\gcc_generic.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\gcc_linux_x86.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\gcc_windows_x86.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\msvc_x86.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\profiles\ticc.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\queue.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\radix.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\random.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\ratio.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\reference_flat_map.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\reference_flat_multimap.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\reference_flat_multiset.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\reference_flat_set.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\scheduler.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\set.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\smallest.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\smallest_generator.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\sqrt.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\stack.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\static_assert.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\string_view.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\task.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\temp.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\timer.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\type_def.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\type_lookup.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\type_lookup_generator.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\type_traits.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\type_traits_generator.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\u16string.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\u32string.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\unordered_map.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\unordered_multimap.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\unordered_multiset.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\unordered_set.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\user_type.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\utility.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\variant.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\variant_pool.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\variant_pool_generator.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\vector.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\version.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\visitor.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\wstring.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\temp\message_router.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\src\sparkfun_adxl345.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\imu.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\led.h" />
+    <ClInclude Include="..\biolight.brain\biolight.brain.gh\biolight.body\src\vector3.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345 fork_id1756\license.txt" />
+    <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adafruit adxl345_id15\license.txt" />
+    <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\keywords.txt" />
+    <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\lib\readme.txt" />
+    <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\adxl345_id559\license.txt" />
+    <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\src\file_error_numbers.txt" />
+    <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\support\release notes.txt" />
+    <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\sparkfun adxl345 arduino library_id2879\keywords.txt" />
+    <Text Include="..\biolight.brain\biolight.brain.gh\biolight.body\lib\readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl.ico" />
+    <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl.png" />
+    <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl16.png" />
+    <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl32.png" />
+    <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\etl48.png" />
+    <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\favicon.ico" />
+    <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\uml\framework.png" />
+    <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\uml\fsm example.png" />
+    <Image Include="..\biolight.brain\biolight.brain.gh\biolight.body\.piolibdeps\embedded template library_id930\uml\messageframework.png" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
