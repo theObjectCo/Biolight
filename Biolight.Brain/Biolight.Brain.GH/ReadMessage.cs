@@ -1,6 +1,8 @@
 ﻿using System;
 using Grasshopper.Kernel;
 using Biolight.Brain;
+using System.Collections.Generic;
+using Grasshopper.Kernel.Types;
 
 namespace Biolight.GH {
     public class ReadMessage : GH_Component {
@@ -23,9 +25,20 @@ namespace Biolight.GH {
             bool read = false;
 
             if (!DA.GetData(0, ref name)) { return; }
-            if (!DA.GetData(1, ref read)) { return;  }
+            if (!DA.GetData(1, ref read)) { return; }
 
-            if (read) { DA.SetDataList(0, SerialMessage.Read(name)); } 
+            if (!read) { return; }
+
+            byte[] message = SerialMessage.Read(name);
+            if (message == null) { return;  }
+
+            List<GH_Integer> ints = new List<GH_Integer>();
+
+            for (int i = 0; i < message.Length; i++) {
+                ints.Add(new GH_Integer(message[i]));
+                }
+
+            DA.SetDataList(0, ints); 
             }
         }
     }
