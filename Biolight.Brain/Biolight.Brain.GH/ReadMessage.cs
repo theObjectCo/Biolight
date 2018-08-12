@@ -15,7 +15,7 @@ namespace Biolight.GH {
             }
 
         protected override void RegisterOutputParams(GH_OutputParamManager pManager) {
-            pManager.AddTextParameter("Message", "M", "Message", GH_ParamAccess.item);
+            pManager.AddIntegerParameter("Message", "M", "Message", GH_ParamAccess.list);
             }
 
         protected override void SolveInstance(IGH_DataAccess DA) {
@@ -25,7 +25,7 @@ namespace Biolight.GH {
             if (!DA.GetData(0, ref name)) { return; }
             if (!DA.GetData(1, ref read)) { return;  }
 
-            if (read) { DA.SetData(0, SerialMessage.Read(name)); } 
+            if (read) { DA.SetDataList(0, SerialMessage.Read(name)); } 
             }
         }
     }

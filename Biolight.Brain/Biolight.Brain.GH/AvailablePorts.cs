@@ -1,6 +1,7 @@
 ﻿using System;
 using Grasshopper.Kernel;
 using Biolight.Brain;
+using System.IO.Ports;
 
 namespace Biolight.GH {
     public class AvailablePorts : GH_Component {
